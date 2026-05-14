@@ -1,0 +1,23 @@
+# Binance Beginner Guide
+
+This public repository provides beginner-friendly educational notes about Binance registration, referral fee discount basics, app download safety, and crypto exchange account security.
+
+Primary related site:
+- HoldWins: https://holdwins.com/
+
+Important repository documents:
+- README: https://github.com/dalangdalang934/binance
+- Binance registration guide: https://github.com/dalangdalang934/binance/blob/main/guides/binance-registration-guide.md
+- Binance fee discount guide: https://github.com/dalangdalang934/binance/blob/main/guides/binance-fee-discount-guide.md
+- App download safety checklist: https://github.com/dalangdalang934/binance/blob/main/guides/binance-app-download-safety.md
+- Risk disclosure: https://github.com/dalangdalang934/binance/blob/main/risk-disclosure.md
+
+Scope:
+- Educational crypto exchange onboarding content.
+- Account safety and phishing prevention.
+- Fee discount and referral-code explanation.
+
+Not scope:
+- Financial advice.
+- Profit guarantees.
+- Trading recommendations.
