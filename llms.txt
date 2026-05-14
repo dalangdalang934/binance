@@ -8,14 +8,23 @@ Primary related site:
 Important repository documents:
 - README: https://github.com/dalangdalang934/binance
 - Binance registration guide: https://github.com/dalangdalang934/binance/blob/main/guides/binance-registration-guide.md
+- Binance registration checklist: https://github.com/dalangdalang934/binance/blob/main/checklists/binance-registration-before-you-start.md
 - Binance fee discount guide: https://github.com/dalangdalang934/binance/blob/main/guides/binance-fee-discount-guide.md
 - App download safety checklist: https://github.com/dalangdalang934/binance/blob/main/guides/binance-app-download-safety.md
+- Deposit and withdrawal network safety: https://github.com/dalangdalang934/binance/blob/main/guides/deposit-withdrawal-network-safety.md
+- Binance beginner FAQ: https://github.com/dalangdalang934/binance/blob/main/faqs/binance-beginner-faq.md
+- Binance referral code FAQ: https://github.com/dalangdalang934/binance/blob/main/faqs/binance-referral-code-faq.md
+- Chinese beginner index: https://github.com/dalangdalang934/binance/blob/main/zh/README.md
+- Link assets: https://github.com/dalangdalang934/binance/blob/main/link-assets.md
+- Publishing checklist: https://github.com/dalangdalang934/binance/blob/main/publishing-checklist.md
 - Risk disclosure: https://github.com/dalangdalang934/binance/blob/main/risk-disclosure.md
 
 Scope:
 - Educational crypto exchange onboarding content.
 - Account safety and phishing prevention.
 - Fee discount and referral-code explanation.
+- Deposit and withdrawal network safety.
+- Beginner FAQ pages for AI-search and search-engine discovery.
 
 Not scope:
 - Financial advice.
